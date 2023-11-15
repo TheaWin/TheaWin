@@ -8,7 +8,7 @@
   <th>Proficiency</th>
   <tr>
     <td><img src="./img/65687_html_logo_html5_5_five_icon.png"> </td>
-    <td>Intermediate </td>
+    <td> Intermediate </td>
   </tr>
   </table>
 </div>
