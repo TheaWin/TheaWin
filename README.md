@@ -1,6 +1,6 @@
 # Thea Win
 
-<p> 🌱 I’m currently studying the Front-End Development. </p>
+<p> 🌱 I’m currently studying the Front-End Development at CareerFoundry. </p>
 <p> My progress so far:</p>
 <div>
   <table>
