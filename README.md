@@ -1,7 +1,6 @@
 # Thea Win
 
-<p> 🌱 I’m going to learn Web Development. </p>
-<p> Coming soon... </p>
+<p> 🌱 I’m currently studying the Front-End Development. </p>
 
 <!--
 **TheaWin/TheaWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
