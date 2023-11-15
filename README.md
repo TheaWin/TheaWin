@@ -3,8 +3,14 @@
 <p> 🌱 I’m currently studying the Front-End Development. </p>
 <p> My progress so far:</p>
 <div>
-  <img src="./img/104453_html5_html_5_icon.png" width="50px" height="50px"> Inter
-  <p>Intermediate</p>
+  <table>
+    <th>Skills</th>
+  <th>Proficiency</th>
+  <tr>
+    <td><img src="./img/65687_html_logo_html5_5_five_icon.png"> </td>
+    <td>Intermediate </td>
+  </tr>
+  </table>
 </div>
 <!--
 **TheaWin/TheaWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
