@@ -1,7 +1,8 @@
 # Thea Win
 
 <p> 🌱 I’m currently studying the Front-End Development. </p>
-
+<p> My progress so far:</p>
+<img src="./img/104453_html5_html_5_icon.png"> <p>Intermediate</p>
 <!--
 **TheaWin/TheaWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
