@@ -6,16 +6,10 @@
 <p>🌱 I’m currently studying Full-Stack Immersion.</p>
 </div>
 
-<p> My progress so far:</p>
+<h2>What I have learned so far</h2>
+
 <div>
-  <table>
-    <th>Skills</th>
-  <th>Proficiency</th>
-  <tr>
-    <td><img src="./img/65687_html_logo_html5_5_five_icon.png"> </td>
-    <td> Intermediate </td>
-  </tr>
-  </table>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
 <!--
