@@ -1,6 +1,11 @@
-# Thea Win
+<h1>Thea Win</h1>
 
-<p> 🌱 I’m currently studying the Front-End Development at CareerFoundry. </p>
+<div>
+<p>🎉 I have completed my Intro to Front-End Development at CareerFoundry (Nov 23).</p>
+<p>🎉 I have completed my Introduction to JavaScript (Dec 23).</p>
+<p>🌱 I’m currently studying Full-Stack Immersion.</p>
+</div>
+
 <p> My progress so far:</p>
 <div>
   <table>
