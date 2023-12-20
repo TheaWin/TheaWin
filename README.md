@@ -23,10 +23,10 @@
 </div>
 
 <h2>Projects I have worked on</h2>
-<p>[Portfolio Website - Live](https://theawin.github.io/portfolio-website/)</p>
-<p>([Pokepedia - Live](https://theawin.github.io/pokepedia/))</p>
-<p>([To-do-list app - Code](https://github.com/TheaWin/to-do-list-app))</p>
-<p>([animeEiga API - Code](https://github.com/TheaWin/anime-eiga))</p>
+<p><a href= "https://theawin.github.io/portfolio-website/">Portfolio Website - Live</a></p>
+<p><a href= "https://theawin.github.io/pokepedia/" >Pokepedia - Live</a></p>
+<p><a href= "https://github.com/TheaWin/to-do-list-app" >To-do-list app - Raw </a></p>
+<p><a href= "https://github.com/TheaWin/anime-eiga">animeEiga API - Code</a></p>
 
 <!--
 **TheaWin/TheaWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
